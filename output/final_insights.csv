@@ -1,0 +1,4 @@
+"Question","Insights"
+"What is the relationship between credit risk indicators and profitability?","Higher credit risk indicators (GNPA, NNPA) are strongly negatively correlated with profitability metrics (Net Profit Margin, Return on Assets)."
+"How do trends in these indicators evolve over time for Indian banks?","Profitability has generally improved over the past 5 years in well-performing clusters, while GNPA and NNPA have steadily declined in these clusters."
+"Which banks perform better in credit risk management?","Banks in Cluster 1 have excelled in credit risk management. These include: 4, 17, 19, 23, 24, 25, 33"
