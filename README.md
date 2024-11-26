@@ -77,13 +77,9 @@ Credit-Risk-Management-and-Indian-Bank-Profitability/
 │   ├── raw/                # Raw datasets (e.g., `dataset_final.csv`)
 │   └── processed/          # Processed datasets for analysis
 ├── plots/                  # Generated visualizations (e.g., heatmaps, PCA plots)
-├── scripts/                # R scripts for data processing and analysis
-│   ├── eda_analysis.R      # Exploratory Data Analysis
-│   ├── ratio_calculations.R # Ratio calculations
-│   └── clustering.R        # Clustering and visualization
+├── script.r                # This is the main code written in R 
 ├── output/
-│   ├── insights.csv        # Extracted insights and findings
-│   └── recommendations.txt # Summary recommendations
+│   
 ├── README.md               # Project overview and instructions
 ```
 
